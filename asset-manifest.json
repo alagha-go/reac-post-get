@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Abdihakim-Osman/reac-post-get/static/css/main.97f18def.chunk.css",
-    "main.js": "/Abdihakim-Osman/reac-post-get/static/js/main.d154fa29.chunk.js",
-    "main.js.map": "/Abdihakim-Osman/reac-post-get/static/js/main.d154fa29.chunk.js.map",
-    "runtime-main.js": "/Abdihakim-Osman/reac-post-get/static/js/runtime-main.37a9bed4.js",
-    "runtime-main.js.map": "/Abdihakim-Osman/reac-post-get/static/js/runtime-main.37a9bed4.js.map",
-    "static/js/2.e5f02815.chunk.js": "/Abdihakim-Osman/reac-post-get/static/js/2.e5f02815.chunk.js",
-    "static/js/2.e5f02815.chunk.js.map": "/Abdihakim-Osman/reac-post-get/static/js/2.e5f02815.chunk.js.map",
-    "static/js/3.36e712ee.chunk.js": "/Abdihakim-Osman/reac-post-get/static/js/3.36e712ee.chunk.js",
-    "static/js/3.36e712ee.chunk.js.map": "/Abdihakim-Osman/reac-post-get/static/js/3.36e712ee.chunk.js.map",
-    "index.html": "/Abdihakim-Osman/reac-post-get/index.html",
-    "static/css/main.97f18def.chunk.css.map": "/Abdihakim-Osman/reac-post-get/static/css/main.97f18def.chunk.css.map",
-    "static/js/2.e5f02815.chunk.js.LICENSE.txt": "/Abdihakim-Osman/reac-post-get/static/js/2.e5f02815.chunk.js.LICENSE.txt"
+    "main.css": "/Abdihakim-Osman/react-post-get/static/css/main.97f18def.chunk.css",
+    "main.js": "/Abdihakim-Osman/react-post-get/static/js/main.d154fa29.chunk.js",
+    "main.js.map": "/Abdihakim-Osman/react-post-get/static/js/main.d154fa29.chunk.js.map",
+    "runtime-main.js": "/Abdihakim-Osman/react-post-get/static/js/runtime-main.dd7c9a89.js",
+    "runtime-main.js.map": "/Abdihakim-Osman/react-post-get/static/js/runtime-main.dd7c9a89.js.map",
+    "static/js/2.e5f02815.chunk.js": "/Abdihakim-Osman/react-post-get/static/js/2.e5f02815.chunk.js",
+    "static/js/2.e5f02815.chunk.js.map": "/Abdihakim-Osman/react-post-get/static/js/2.e5f02815.chunk.js.map",
+    "static/js/3.36e712ee.chunk.js": "/Abdihakim-Osman/react-post-get/static/js/3.36e712ee.chunk.js",
+    "static/js/3.36e712ee.chunk.js.map": "/Abdihakim-Osman/react-post-get/static/js/3.36e712ee.chunk.js.map",
+    "index.html": "/Abdihakim-Osman/react-post-get/index.html",
+    "static/css/main.97f18def.chunk.css.map": "/Abdihakim-Osman/react-post-get/static/css/main.97f18def.chunk.css.map",
+    "static/js/2.e5f02815.chunk.js.LICENSE.txt": "/Abdihakim-Osman/react-post-get/static/js/2.e5f02815.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.37a9bed4.js",
+    "static/js/runtime-main.dd7c9a89.js",
     "static/js/2.e5f02815.chunk.js",
     "static/css/main.97f18def.chunk.css",
     "static/js/main.d154fa29.chunk.js"
