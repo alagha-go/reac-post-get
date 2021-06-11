@@ -1,0 +1,65 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.foam{
+  background-color: black;
+  padding: 20px;
+  border-radius: 5px;
+  display: flex;
+  margin: 50px auto;
+  flex-direction: column;
+}
+
+.foam label{
+  font-size: 20px;
+  color: white;
+}
+
+.foam input{
+  padding-left: 10px;
+  margin-left: 5px;
+  height: 30px;
+  font-size: 25px;
+  width: 300px;
+  border-radius: 5px;
+  border: 2px solid rgb(13, 224, 13);
+}
+
+button{
+  height: 30px;
+  width: fit-content;
+  border-radius: 5px;
+  padding: 0px 10px;
+  background-color: violet;
+  margin: 0px auto;
+}
+
+button:hover{
+  background-color: blanchedalmond;
+  cursor: pointer;
+}
+
+.employees{
+  margin: 10px auto;
+}
+
+.Employees{
+  display: inline;
+}
+
+table{
+  margin: 50px auto;
+}
+
+table, th, td{
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+
+th, td{
+  padding: 5px;
+}
